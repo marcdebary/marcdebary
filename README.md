@@ -19,6 +19,7 @@ Measured before shipped. The rule base above is tested in two directions: agains
 
 | | |
 |---|---|
+| [`debary-mcp-compliance`](https://github.com/DE-BARY-LLC/debary-mcp-compliance) | MCP server over that rule engine. The model gets the rules and the statute behind each one; the engine keeps the decision. |
 | [`pythia`](https://github.com/marcdebary/pythia) | Read-only container that tests whether a claimed edge survives contact with reality — and says no when it does not. |
 | [`agent-shield`](https://github.com/marcdebary/agent-shield) | Guardrails for agent output. |
 | [`AccumulateNodes`](https://github.com/marcdebary/AccumulateNodes) | Workflow nodes for the Accumulate protocol. |
